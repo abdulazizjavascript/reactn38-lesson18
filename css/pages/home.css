@@ -1,1 +1,6 @@
 @import "../base/global.css";
+
+h1 {
+  text-align: center;
+  background-color: green;
+}
